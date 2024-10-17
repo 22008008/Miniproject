@@ -1,8 +1,10 @@
 ## REVOLUTIONIZING HEART DISEASE DETECTION USING MACHINE LEARNING
 
+ 
 This project aims to leverage machine learning techniques, that implements Diverse machine learning algorithms to determine the best accuracy model to develop a model for early heart disease detection. By analyzing clinical and demographic data, the model can assess individual risk, contributing to improved preventive healthcare and timely interventions.
 
 ## ABOUT
+
 
 Machine Learning (ML) has emerged as a transformative force in the field of healthcare, offering innovative solutions to longstanding challenges and opening up new avenues for research, diagnosis, treatment, and patient care.The "Revolutionizing Heart Disease Detection Using Machine Learning" project focuses on utilizing machine learning algorithms to enhance early detection and prediction of heart disease, a critical global health issue. Through data-driven insights, clinical and demographic features are analyzed using the Random Forest Classifier to create a robust and interpretable model. This project aims to support healthcare professionals in making informed decisions, providing timely interventions.
 
